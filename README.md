@@ -1,4 +1,5 @@
-This is a simple Botting tool to boost your server on disc.gg
+# Simple disc.gg botting tool
+`   This is a simple Botting tool to boost your server on disc.gg `
 
 
 ## How to install ?
